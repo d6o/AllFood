@@ -4,6 +4,8 @@
 
 The AllFood's goal is to be a perfect tool providing a stupidly easy-to-use and fast program to search all Nearby restaurants based on a latitude and longitude.
 
+<img src="http://image.prntscr.com/image/bfd678a833a949f3b3caa8331b376f37.png" width="400">
+
 ## Project Status
 
 AllFood is on beta. Pull Requests [are welcome](https://github.com/DiSiqueira/AllFood#social-coding)
@@ -98,7 +100,7 @@ $ AllFood -h
 
 ## Program Output
 
-<img src="http://image.prntscr.com/image/bfd678a833a949f3b3caa8331b376f37.png" width="300">
+<img src="http://image.prntscr.com/image/bfd678a833a949f3b3caa8331b376f37.png" width="500">
 
 ## Program Help
 
