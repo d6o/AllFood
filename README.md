@@ -98,7 +98,7 @@ $ AllFood -h
 
 ## Program Output
 
-![](http://image.prntscr.com/image/bfd678a833a949f3b3caa8331b376f37.png)
+<img src="http://image.prntscr.com/image/bfd678a833a949f3b3caa8331b376f37.png" width="300">
 
 ## Program Help
 
