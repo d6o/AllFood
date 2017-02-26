@@ -106,6 +106,15 @@ $ AllFood -h
 
 ![](http://image.prntscr.com/image/7ad9e94e11d049a992b202cbc764eadf.png)
 
+## RoadMap
+
+- [x] Facebook Places
+- [x] FourSquare
+- [x] Google Places
+- [ ] Yelp
+- [ ] Distance between original point and the restaurant
+- [ ] Local Database to store same locations search
+
 ## Contributing
 
 ### Bug Reports & Feature Requests
