@@ -96,6 +96,10 @@ $ AllFood -lat=-22.314459 -lng=-49.058695 -radius=1 -google-key=AIzaSyAOEARYwKid
 $ AllFood -h
 ```
 
+## Program Output
+
+![](http://image.prntscr.com/image/bfd678a833a949f3b3caa8331b376f37.png)
+
 ## Program Help
 
 ![](http://image.prntscr.com/image/7ad9e94e11d049a992b202cbc764eadf.png)
